@@ -1,6 +1,6 @@
 {
   "name": "cuss2-typescript-models",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CUSS 2 Models",
   "author": "VisionBox",
   "main": "./dist/index.js",

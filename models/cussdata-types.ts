@@ -18,6 +18,7 @@
  * @enum {string}
  */
 export enum CUSSDataTypes {
+    SBDAEA = 'DS_TYPES_SBDAEA',
     ISO = 'DS_TYPES_ISO',
     FOIDISO = 'DS_TYPES_PAYMENT_ISO',
     VING = 'DS_TYPES_VING',
