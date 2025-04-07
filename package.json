@@ -1,6 +1,6 @@
 {
   "name": "cuss2-typescript-models",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "CUSS 2 Models",
   "author": "VisionBox",
   "main": "./dist/index.js",
@@ -11,8 +11,14 @@
   },
   "dependencies": {
   },
+  "files": [
+    "dist",
+    "models",
+    "index.ts"
+  
+  ],
   "devDependencies": {
-    "@types/node": "^12.11.5",
-    "typescript": "^3.6.4"
+    "@types/node": "^20.14.8",
+    "typescript": "^4.6.2"
   }
 }
